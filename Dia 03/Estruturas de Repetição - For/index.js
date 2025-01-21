@@ -23,8 +23,8 @@ for ("Inicializando o for"; indice <= 10; alert("Finalizando um bloco de repetiÃ
 }
 */
 
-let nome = "Narcelio"
+// let nome = "Narcelio"
 
-for (let indice = 0; indice < nome.length; indice++) {
-    console.log(nome[indice])
-}
+// for (let indice = 0; indice < nome.length; indice++) {
+//     console.log(nome[indice])
+// }
